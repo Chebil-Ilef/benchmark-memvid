@@ -1,0 +1,6 @@
+.venv
+
+data_faiss
+data_memvid
+
+__pycache__

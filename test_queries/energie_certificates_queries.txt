@@ -1,0 +1,7 @@
+What is the required primary energy demand according to EnEV regulations for new residential buildings?
+How does the calculated energy demand differ from the recorded energy consumption in the building?
+What are the HT' values for the building envelope and how do they compare to the EnEV limits?
+Does the building use renewable energy to meet EEWärmeG requirements? If so, which type and how much? 
+Which modernization measures are recommended to improve energy efficiency?
+What calculation methods are used for the energy demand in accordance with EnEV?
+What is the energy efficiency class and CO2 emission rating of the building?

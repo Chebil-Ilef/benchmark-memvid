@@ -1,0 +1,49 @@
+What were the main revenue streams and geographic segments for the company in 2024?**
+   *(Tests revenue structure understanding across all reports)*
+
+2. **How did the operating profit or net income change from 2023 to 2024?**
+   *(Tests temporal comparison retrieval; may touch on core/GAAP differences)*
+
+3. **What major cost factors or expenses affected the company’s performance this year?**
+   *(Looks for commodity costs, recalls, tax reserves, restructuring charges)*
+
+---
+
+### 🌍 **Sustainability & ESG**
+
+4. **What actions did the company take to improve water efficiency and sustainability in agriculture?**
+   *(Specific to PepsiCo but should return relevant results in other reports too if applicable)*
+
+5. **Which ESG initiatives were recognized externally or awarded in 2024?**
+   *(Retrieves mentions of recognition, awards, or public acknowledgments of ESG)*
+
+---
+
+### 💼 **Business Strategy & Expansion**
+
+6. **What strategic acquisitions or product launches were made in 2024?**
+   *(Tests the retriever's ability to find forward-looking or growth-related content)*
+
+7. **How is the company expanding in international markets outside the U.S. or EU?**
+   *(Tests regional segmentation and international strategy mentions)*
+
+---
+
+### 🏦 **Risk & Governance**
+
+8. **What financial risks or regulatory concerns did the company highlight in 2024?**
+   *(Tests risk section retrieval, including tax, currency, or compliance concerns)*
+
+9. **How is the company responding to inflation or geopolitical instability?**
+   *(Looks for macroeconomic impact discussion and mitigation strategies)*
+
+---
+
+### 🧑‍🤝‍🧑 **Stakeholder Communication**
+
+10. **What message did the CEO convey to shareholders in the 2024 letter?**
+    *(Should retrieve the introductory vision/purpose section, a good test for context-aware chunks)*
+
+---
+
+Let me know if you'd like auto-evaluation logic (e.g., fuzzy string or embedding similarity scoring) for the retrieved chunks versus expected content — or a script to generate a manual scoring template for these.
